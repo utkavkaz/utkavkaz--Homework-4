@@ -134,5 +134,5 @@ Console.WriteLine();
 SelectionSort(Array);
 Console.Write("Массив отсортирован по возрастанию: ");
 PrintArray(Array);
-Console.Write("Медианное значение первоначалального массива равно: " + Median(Array));
+Console.Write("Медианное значение первоначального массива равно: " + Median(Array));
 Console.WriteLine();
